@@ -1,7 +1,17 @@
-Password Generator
+# Random Password Generator
+```
+The Random Password Generator is a basic application for gnerating a random password based on the length of the password that the user selects. 
+```
 
-This project is supposed to generate a password for the user thru a series of prompts.  However, after multiple trials I was unsucessful in relational linking of the script to other script and to the the HTML.  What you are seeing is the latest version of the trials.  
+## View the Application
 
-You will see a prompt that was to relate to length field of the for loop. 
+Please visit [Random Password Generator] (https://easyacres.github.io/Random-Password-Generator/) to view the Application.
 
-Please let me know if you have any questions. 
+
+## Usage 
+
+A Random Password Generator will be useful for a user who requires a unique password that is not freehand.  Additionally the password lenght feature should help those users who require a specific length.
+
+## Contributor(s)
+
+Thank you for viewing the work of Daniel Howe.
